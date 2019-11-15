@@ -35,7 +35,7 @@ function App(props) {
     if(quarter < 4) {
       setQuarter(quarter + 1);
     } else {
-      setQuarter(quarter = 1);
+      setQuarter(1);
     };
   };
 
